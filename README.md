@@ -4,5 +4,5 @@ En esta lección se enseñará a crear constructores que servirán para crear di
 En este ejercicio primero se solicita continuar con la edición del programa de la lección 7_2, ésta vez se pide modificar los datos para imprimir el valor por defecto de cada tipo de variable.
 Se instancian dos prisioneros y a uno no se le asigna ningún valor, mostrando lo que se ve en la figura siguiente.
 
-
+![Lección 7_4_1_1](https://user-images.githubusercontent.com/54320247/68540435-a72cf180-0357-11ea-95e4-5a25ae0b454c.jpg)
 
