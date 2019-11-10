@@ -11,3 +11,4 @@ Ahora se pide editar el programa para realizar lo siguiente:
 – Este método debe aceptar tres argumentos, que se utilizan para definir los valores de cada campo.
 – Sustituir el código del método main con llamadas a este método.
 
+![Lección 7_3_2_1](https://user-images.githubusercontent.com/54320247/68540515-06d7cc80-0359-11ea-92d5-2f76b088c8eb.jpg)
