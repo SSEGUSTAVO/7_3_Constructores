@@ -6,3 +6,8 @@ Se instancian dos prisioneros y a uno no se le asigna ningún valor, mostrando l
 
 ![Lección 7_3 constructores](https://user-images.githubusercontent.com/54320247/68540481-6da8b600-0358-11ea-919e-8fffd73ec1bc.jpg)
 
+Ahora se pide editar el programa para realizar lo siguiente:
+– Agregue un método "registro".
+– Este método debe aceptar tres argumentos, que se utilizan para definir los valores de cada campo.
+– Sustituir el código del método main con llamadas a este método.
+
